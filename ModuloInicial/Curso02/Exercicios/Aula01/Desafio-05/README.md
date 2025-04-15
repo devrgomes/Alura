@@ -1,0 +1,1 @@
+Ao clicar no botão soma, peça 2 números inteiros e exiba o resultado da soma em um alerta.
